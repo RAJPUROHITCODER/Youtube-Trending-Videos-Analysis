@@ -55,16 +55,3 @@ In this  project first I pulls the **latest‑trending YouTube videos** for ever
 | **B. Category & Channel Insights** | Most‑viewed video per category, views vs likes scatter, top channels |
 | **C. Country & Language Trends** | Map of views by category, top videos per country, popular languages |
 
-*(Dashboard screenshots – replace with your own files)*  
-![Overview](/images/dashboard_overview.png)  
-![Category & Channel](/images/dashboard_category_channel.png)  
-![Country & Language](/images/dashboard_country_language.png)
-
----
-
-## How to Run
-
-1. **Clone** this repo  
-2. Install Python deps:  
-   ```bash
-   pip install -r requirements.txt
